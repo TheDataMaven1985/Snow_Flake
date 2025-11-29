@@ -1,1 +1,0 @@
-SELECT * FROM dim_customers_scd_type_1;
